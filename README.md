@@ -103,13 +103,13 @@ Key features:
 **1. Prediction Input Form**
 
 <p align="center">
-  <img src="Screenshot/input-form.png" alt="Car Price Predictor - Input Form" width="85%">
+  <img src="input-form.png" alt="Car Price Predictor - Input Form" width="85%">
 </p>
 
 **2. Prediction Result**
 
 <p align="center">
-  <img src="Screenshot/prediction-result.png" alt="Car Price Predictor - Prediction Result" width="85%">
+  <img src="prediction-result.png" alt="Car Price Predictor - Prediction Result" width="85%">
 </p>
 
 ---
